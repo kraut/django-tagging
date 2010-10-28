@@ -1,3 +1,19 @@
+This is a fork of django-tagging!
+
+(http://code.google.com/p/django-tagging/
+ or
+http://github.com/kraut/django-tagging)
+
+THE MAIN AND CURRENTLY ONLY DIFFERENCE TO THE ORIGIN BRANCH IS THAT
+THERE IS A SETTINGS OPTION CALLED
+
+FORCE_COMMA_SEPARATOR
+
+IF ITS TRUE; django-tagging USES COMMA AS SEPARATOR ALWAYS!
+I NEED THIS FOR django-tagging-autocomplete!
+
+
+
 ==============
 Django Tagging
 ==============
